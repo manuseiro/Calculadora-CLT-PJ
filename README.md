@@ -146,10 +146,9 @@ Adoraríamos sua ajuda para melhorar este projeto! Siga os passos abaixo:
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por **[Seu Nome]**  
-📧 Email: [seunome@email.com](mailto:seunome@email.com)  
-💼 LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome)  
-🌐 GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+Desenvolvido por **[Manuseiro]**    
+💼 LinkedIn: [linkedin.com/in/manuseiro](https://linkedin.com/in/manuseiro)  
+🌐 GitHub: [github.com/manuseiro](https://github.com/manuseiro)
 
 > Quer personalizar este README com seus dados? Informe seu nome, email, LinkedIn e GitHub, e gerarei uma versão pronta!
 
