@@ -37,7 +37,7 @@ Uma calculadora interativa e acessível para comparar custos e rendimentos entre
 ### Passos
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/calculadora-clt-pj.git
+   git clone https://github.com/manuseiro/calculadora-clt-pj.git
    ```
 2. Navegue até o diretório:
    ```bash
